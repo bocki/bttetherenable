@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth Tethering Enabler</string>
+
+    <string name="button_enable">Enable BT Tethering</string>
+    <string name="button_disable">Disable BT Tethering</string>
+
+    <string name="title_activity_enable_tether">Enabling/Disabling Tethering</string>
+
+    <string name="bluetooth_enabled">Bluetooth tethering has been enabled.</string>
+    <string name="bluetooth_disabled">Bluetooth tethering has been disabled.</string>
+</resources>
